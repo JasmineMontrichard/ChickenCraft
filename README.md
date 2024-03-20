@@ -7,7 +7,7 @@
 </div>
 
 ### Background
-A simple game world loosely based on Minecraft Chicken objects. This project implements the Model-View-Controller (MVC) software design pattern and error-checking is applied. The purpose of this prgoram is to allow the user to interact with the simulated chickens with the specified options. Users can: `feed`, `play`, `hit`, `get eggs`, or `quit` the program. Additionally, information is displayed for each chicken and after an option is selected.
+A simple game world loosely based on Minecraft Chicken objects. This project implements the Model-View-Controller (MVC) software design pattern and error-checking is applied. The purpose of this program is to allow the user to interact with the simulated chickens with the specified options. Users can: `feed`, `play`, `hit`, `get eggs`, or `quit` the program. Additionally, information is displayed for each chicken and after an option is selected.
 
 ### Notes
 * N/A
